@@ -4,7 +4,7 @@ import useTitle from '../lib/useTitle.js'
 
 function srcLabel(id) {
   const q = questionById[id]
-  return q ? q.nguon || q.de : id
+  return q ? `${q.de} câu ${Number(id.split('-c')[1])}` : id
 }
 
 export default function MeoNho() {

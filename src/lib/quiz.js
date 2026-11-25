@@ -35,10 +35,13 @@ export function compareDe(a, b) {
   return deSortKey(a) - deSortKey(b) || String(a).localeCompare(String(b), 'vi')
 }
 
-export function examList(questions) {
+export function examList(questions, minCount = 1) {
   const counts = new Map()
   for (const q of questions) for (const de of deOf(q)) counts.set(de, (counts.get(de) || 0) + 1)
-  return [...counts.entries()].map(([de, count]) => ({ de, count })).sort((x, y) => compareDe(x.de, y.de))
+  return [...counts.entries()]
+    .map(([de, count]) => ({ de, count }))
+    .filter((e) => e.count >= minCount)
+    .sort((x, y) => compareDe(x.de, y.de))
 }
 
 export function questionsOfDe(questions, de) {

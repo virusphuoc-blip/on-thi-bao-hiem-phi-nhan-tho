@@ -1,5 +1,5 @@
 import { Link, useNavigate } from 'react-router-dom'
-import { questions } from '../data/index.js'
+import { practiceQuestions } from '../data/index.js'
 import { buildExam, examList } from '../lib/quiz.js'
 import { loadExam, saveExam } from '../lib/progress.js'
 import { EXAM_DURATION_MINUTES, EXAM_QUESTION_COUNT, PASS_PERCENT } from '../config.js'
@@ -9,10 +9,10 @@ export default function ExamSelect() {
   useTitle('Thi thử')
   const navigate = useNavigate()
   const current = loadExam()
-  const exams = examList(questions)
+  const exams = examList(practiceQuestions, EXAM_QUESTION_COUNT)
 
   function start(de) {
-    const { title, qids } = buildExam(questions, de, EXAM_QUESTION_COUNT)
+    const { title, qids } = buildExam(practiceQuestions, de, EXAM_QUESTION_COUNT)
     const now = Date.now()
     saveExam({ title, qids, picks: {}, startAt: now, endAt: now + EXAM_DURATION_MINUTES * 60000, idx: 0 })
     navigate('/thi-thu/lam')

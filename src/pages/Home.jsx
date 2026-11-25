@@ -1,8 +1,8 @@
 import { Link } from 'react-router-dom'
-import { questions } from '../data/index.js'
+import { practiceQuestions, questions } from '../data/index.js'
 import { examList, overallStats, topicStats, weakestTopic } from '../lib/quiz.js'
 import { useProgress } from '../lib/ProgressContext.jsx'
-import { WEAK_TOPIC_MIN_ANSWERED } from '../config.js'
+import { EXAM_QUESTION_COUNT, WEAK_TOPIC_MIN_ANSWERED } from '../config.js'
 import useTitle from '../lib/useTitle.js'
 
 const QUICK = [
@@ -19,7 +19,7 @@ export default function Home() {
   useTitle('')
   const { state } = useProgress()
   const overall = overallStats(state.answers)
-  const weak = weakestTopic(topicStats(questions, state.answers), overall.answeredQ, WEAK_TOPIC_MIN_ANSWERED)
+  const weak = weakestTopic(topicStats(practiceQuestions, state.answers), overall.answeredQ, WEAK_TOPIC_MIN_ANSWERED)
   const wrongCount = Object.keys(state.wrong).length
 
   return (
@@ -31,7 +31,7 @@ export default function Home() {
           <span className="stat-label">câu hỏi</span>
         </div>
         <div className="stat">
-          <span className="stat-num">{examList(questions).length}</span>
+          <span className="stat-num">{examList(practiceQuestions, EXAM_QUESTION_COUNT).length}</span>
           <span className="stat-label">đề thi</span>
         </div>
         <div className="stat">

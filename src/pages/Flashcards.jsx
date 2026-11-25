@@ -1,9 +1,11 @@
 import { useState } from 'react'
-import { questions, questionById } from '../data/index.js'
+import { questions as allQuestions, questionById } from '../data/index.js'
 import { TOPICS } from '../data/topics.js'
 import { shuffle } from '../lib/quiz.js'
 import { useProgress } from '../lib/ProgressContext.jsx'
 import useTitle from '../lib/useTitle.js'
+
+const questions = allQuestions.filter((q) => q.dapAnDung)
 
 function deckFor(filter, state) {
   if (filter === 'chua') return questions.filter((q) => state.flash[q.id] === 'chua')
@@ -110,7 +112,8 @@ export default function Flashcards() {
           <>
             <span className="fc-side">Đáp án đúng</span>
             <span className="fc-text">
-              {q.dapAnDung}. {q.dapAn?.[q.dapAnDung]}
+              {q.thieuDapAn ? '' : `${q.dapAnDung}. `}
+              {q.dapAn?.[q.dapAnDung]}
             </span>
             {q.giaiThich && <span className="small">{q.giaiThich}</span>}
           </>

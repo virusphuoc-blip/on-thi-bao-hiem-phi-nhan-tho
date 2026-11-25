@@ -1,1 +1,76 @@
-[]
+[
+  {
+    "nhom": "Thời hạn hay ra thi",
+    "cot1": "Việc",
+    "cot2": "Thời hạn",
+    "items": [
+      { "chuDe": "Bồi thường, trả tiền bảo hiểm (khi hợp đồng không có thỏa thuận)", "ghiNho": "15 ngày kể từ ngày nhận được đầy đủ hồ sơ hợp lệ", "nguon": ["de4-c32", "de13-c11", "de15-c38", "de2-c36"] },
+      { "chuDe": "Nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm", "ghiNho": "01 năm kể từ ngày xảy ra sự kiện bảo hiểm", "nguon": ["de13-c27", "de15-c37", "de2-c10", "de7-c32"] },
+      { "chuDe": "Người được BH/người thụ hưởng chứng minh không biết thời điểm xảy ra sự kiện", "ghiNho": "01 năm tính từ ngày biết việc xảy ra sự kiện bảo hiểm", "nguon": ["de15-c01", "de3-c37"] },
+      { "chuDe": "Người thứ ba yêu cầu bên mua BH bồi thường (BH trách nhiệm)", "ghiNho": "1 năm kể từ ngày người thứ ba yêu cầu", "nguon": ["de1-c39"] },
+      { "chuDe": "Thời hiệu khởi kiện về hợp đồng bảo hiểm", "ghiNho": "3 năm kể từ thời điểm phát sinh tranh chấp", "nguon": ["de2-c03", "de4-c08"] },
+      { "chuDe": "Bộ Tài chính chấp thuận/từ chối chuyển giao hợp đồng bảo hiểm", "ghiNho": "21 ngày (làm việc) kể từ ngày nhận đủ hồ sơ", "nguon": ["de5-c07"] },
+      { "chuDe": "Thời gian chờ trong bảo hiểm sức khỏe", "ghiNho": "Không áp dụng với trường hợp điều trị do tai nạn", "nguon": ["de13-c10"] },
+      { "chuDe": "Thời gian cân nhắc — HĐ bảo hiểm nhân thọ trên 01 năm", "ghiNho": "21 ngày kể từ ngày nhận được hợp đồng bảo hiểm", "nguon": ["ot12-c01"] }
+    ]
+  },
+  {
+    "nhom": "Bảo hiểm bắt buộc TNDS chủ xe cơ giới",
+    "cot1": "Việc",
+    "cot2": "Ghi nhớ",
+    "items": [
+      { "chuDe": "Thanh toán bồi thường", "ghiNho": "15 ngày; không quá 30 ngày nếu phải xác minh hồ sơ", "nguon": ["de9-c09", "de11-c10"] },
+      { "chuDe": "Từ chối bồi thường — thông báo bằng văn bản", "ghiNho": "30 ngày kể từ ngày nhận được hồ sơ yêu cầu bồi thường", "nguon": ["de12-c08", "de8-c12"] },
+      { "chuDe": "Thời hạn yêu cầu bồi thường", "ghiNho": "01 năm kể từ ngày xảy ra tai nạn (trừ chậm trễ do nguyên nhân khách quan, bất khả kháng)", "nguon": ["de6-c38", "de11-c13"] },
+      { "chuDe": "Thông báo hết thời hạn hợp đồng", "ghiNho": "15 ngày trước khi hết thời hạn bảo hiểm", "nguon": ["de11-c20"] },
+      { "chuDe": "Tạm ứng (sức khỏe, tính mạng) — đã xác định thuộc phạm vi bồi thường", "ghiNho": "70% mức bồi thường/1 người/1 vụ nếu tử vong; 50% nếu tổn thương bộ phận được điều trị cấp cứu", "nguon": ["de14-c37"] },
+      { "chuDe": "Tạm ứng (sức khỏe, tính mạng) — chưa xác định thuộc phạm vi bồi thường", "ghiNho": "30% mức trách nhiệm/1 người/1 vụ nếu tử vong; 10% nếu tổn thương bộ phận được điều trị cấp cứu", "nguon": ["de10-c32"] },
+      { "chuDe": "Đóng góp Quỹ bảo hiểm xe cơ giới (NĐ 03/2021)", "ghiNho": "Tối đa 1% tổng phí bảo hiểm bắt buộc TNDS thực thu năm tài chính liền kề", "nguon": ["de5-c14"] }
+    ]
+  },
+  {
+    "nhom": "Tỷ lệ phần trăm",
+    "cot1": "Nội dung",
+    "cot2": "Tỷ lệ",
+    "items": [
+      { "chuDe": "Hoa hồng đại lý tối đa — BH bắt buộc TNDS chủ xe mô tô, xe máy", "ghiNho": "20%", "nguon": ["de1-c01"] },
+      { "chuDe": "Hoa hồng đại lý tối đa — BH bắt buộc TNDS chủ xe ô tô", "ghiNho": "5%", "nguon": ["de10-c11"] },
+      { "chuDe": "Hoa hồng đại lý tối đa — BH bắt buộc cháy, nổ", "ghiNho": "5%", "nguon": ["de2-c20", "de4-c12"] },
+      { "chuDe": "Hoa hồng đại lý tối đa — BH tự nguyện cháy, nổ; tín dụng và rủi ro tài chính; thiệt hại kinh doanh", "ghiNho": "10%", "nguon": ["de3-c05", "de4-c29"] },
+      { "chuDe": "Chi khen thưởng + hỗ trợ đại lý (DN phi nhân thọ)", "ghiNho": "Không quá 50% hoa hồng của các hợp đồng đã khai thác trong năm tài chính", "nguon": ["de3-c35"] },
+      { "chuDe": "Giới hạn phụ của điều khoản sửa đổi bổ sung (BH tài sản)", "ghiNho": "Thông thường không vượt quá 10% số tiền bảo hiểm", "nguon": ["ot7-c37"] },
+      { "chuDe": "Giới hạn trách nhiệm bên thứ ba — CAR/EAR (Munich Re)", "ghiNho": "Không vượt quá 50% số tiền bảo hiểm Phần I – Tổn thất vật chất", "nguon": ["ot7-c38"] }
+    ]
+  },
+  {
+    "nhom": "Phân biệt nhanh: dưới giá trị / trên giá trị / trùng",
+    "cot1": "Loại",
+    "cot2": "Ghi nhớ",
+    "items": [
+      { "chuDe": "Dưới giá trị", "ghiNho": "Số tiền BH thấp hơn giá thị trường của tài sản lúc giao kết → bồi thường theo tỷ lệ số tiền BH / giá thị trường", "nguon": ["de4-c31", "de1-c08"] },
+      { "chuDe": "Trên giá trị", "ghiNho": "Số tiền BH cao hơn giá thị trường của tài sản lúc giao kết", "nguon": ["de3-c31", "de10-c04"] },
+      { "chuDe": "Trùng", "ghiNho": "Giao kết với từ 2 DNBH trở lên cho cùng đối tượng, cùng điều kiện và sự kiện BH → mỗi DN bồi thường theo tỷ lệ số tiền BH của mình / tổng số tiền BH; tổng bồi thường không vượt quá thiệt hại thực tế", "nguon": ["de1-c24", "de3-c24", "de5-c25"] }
+    ]
+  },
+  {
+    "nhom": "Phân biệt nhanh: miễn thường",
+    "cot1": "Loại",
+    "cot2": "Ghi nhớ",
+    "items": [
+      { "chuDe": "Tổn thất nhỏ hơn mức miễn thường", "ghiNho": "DNBH không phát sinh nghĩa vụ bồi thường", "nguon": ["de6-c23", "ot4-c12"] },
+      { "chuDe": "Có khấu trừ — tổn thất lớn hơn mức khấu trừ", "ghiNho": "Bồi thường = giá trị tổn thất − mức miễn thường", "nguon": ["ot4-c16", "ot4-c11"] },
+      { "chuDe": "Ví dụ có khấu trừ", "ghiNho": "Tài sản 500 triệu, miễn thường 5% số tiền BH, tổn thất 50 triệu → bồi thường 25 triệu", "nguon": ["de6-c30"] }
+    ]
+  },
+  {
+    "nhom": "Phân biệt nhanh: các nguyên tắc",
+    "cot1": "Nguyên tắc",
+    "cot2": "Ghi nhớ",
+    "items": [
+      { "chuDe": "Khoán", "ghiNho": "Trả số tiền đã thỏa thuận tại hợp đồng; áp dụng cho bảo hiểm nhân thọ", "nguon": ["de13-c12", "ot5-c27"] },
+      { "chuDe": "Thế quyền", "ghiNho": "Không áp dụng cho bảo hiểm nhân thọ (và bảo hiểm sức khỏe)", "nguon": ["de14-c33", "ot12-c11"] },
+      { "chuDe": "Đóng góp bồi thường", "ghiNho": "Liên quan trực tiếp nhất đến nguyên tắc bồi thường", "nguon": ["de14-c34"] },
+      { "chuDe": "Trung thực tuyệt đối", "ghiNho": "Là nghĩa vụ chung của cả doanh nghiệp bảo hiểm và bên mua bảo hiểm", "nguon": ["de15-c27"] }
+    ]
+  }
+]

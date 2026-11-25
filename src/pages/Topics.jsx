@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { questions } from '../data/index.js'
+import { practiceQuestions as questions } from '../data/index.js'
 import { TOPICS } from '../data/topics.js'
 import { topicStats } from '../lib/quiz.js'
 import { useProgress } from '../lib/ProgressContext.jsx'

@@ -22,5 +22,7 @@ npm run build
 - `src/data/questions.json`: ngân hàng câu hỏi (`id`, `de`, `cacDe`, `chuDe` 1–10, `cauHoi`, `dapAn` A–D, `dapAnDung`, `giaiThich`, `nguon`).
 - `src/data/topics.js`: 10 chủ đề.
 - `src/data/meoNho.json`: Bảng mẹo nhớ (mỗi dòng có nguồn là id câu hỏi).
+- Tạo lại ngân hàng câu hỏi từ `data/` (cần `pymupdf`, `openpyxl`): `python3 scripts/build_questions.py`. Đáp án đúng trong PDF là chữ đỏ in đậm. Id `deN-cXX` = Đề N trong PDF, `otN-cXX` = Đề N trong file XLSX (chỉ có trong XLSX). Câu `thieuDapAn: true` chỉ có đáp án đúng, không có phương án sai → chỉ dùng cho flashcard + tìm kiếm.
+- Báo cáo parse: `data/BAO_CAO_PARSE.md`.
 
 © 2026 VH Phước. Mọi nội dung thuộc về VH Phước.
