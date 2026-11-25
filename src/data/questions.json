@@ -12008,12 +12008,14 @@
   "chuDe": 2,
   "cauHoi": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào dưới đây đúng",
   "dapAn": {
-   "A": "Phí bảo hiểm là khoản tiền mà bên mua bảo hiểm phải đóng cho doanh nghiệp bảo hiểm theo quy định của pháp luật hoặc do các bên thỏa thuận trong hợp đồng bảo hiểm"
+   "A": "Phí bảo hiểm là khoản tiền mà bên mua bảo hiểm phải đóng cho doanh nghiệp bảo hiểm theo quy định của pháp luật hoặc do các bên thỏa thuận trong hợp đồng bảo hiểm",
+   "B": "Người được bảo hiểm là tổ chức, cá nhân giao kết hợp đồng bảo hiểm với doanh nghiệp bảo hiểm và đóng phí bảo hiểm",
+   "C": "A,B đúng"
   },
   "dapAnDung": "A",
   "giaiThich": "",
-  "nguon": "on_tap-1_1_lvo6.xlsx – sheet DE 1 DEN 8, Đề 4 câu 9",
-  "thieuDapAn": true
+  "nguon": "on_tap-1_1_lvo6.xlsx – sheet DE 1 DEN 8, Đề 4 câu 9; bo-sung-tracnghiem.csv dòng 25 (tracnghiem.net)",
+  "chiOnTap": true
  },
  {
   "id": "ot4-c09",
@@ -13264,12 +13266,14 @@
   "chuDe": 1,
   "cauHoi": "Theo Luật Kinh doanh bảo hiểm, nghiệp vụ bảo hiểm nào sau đây không phải nghiệp vụ bảo hiểm bắt buộc",
   "dapAn": {
-   "A": "Bảo hiểm Hỏa hoạn và các rủi ro đặc biệt"
+   "A": "Bảo hiểm cháy, nổ",
+   "B": "Bảo hiểm Hỏa hoạn và các rủi ro đặc biệt",
+   "C": "Bảo hiểm Trách nhiệm dân sự của chủ xe cơ giới",
+   "D": "Bảo hiểm Trách nhiệm nghề nghiệp môi giới bảo hiểm"
   },
-  "dapAnDung": "A",
+  "dapAnDung": "B",
   "giaiThich": "",
-  "nguon": "on_tap-1_1_lvo6.xlsx – sheet DE 1 DEN 8, Đề 6 câu 27",
-  "thieuDapAn": true
+  "nguon": "on_tap-1_1_lvo6.xlsx – sheet DE 1 DEN 8, Đề 6 câu 27; bo-sung-tracnghiem.csv dòng 29 (tracnghiem.net)"
  },
  {
   "id": "ot6-c28",
@@ -13584,12 +13588,14 @@
   "chuDe": 4,
   "cauHoi": "Theo Luật Kinh doanh bảo hiểm, bảo hiểm bắt buộc không bao gồm",
   "dapAn": {
-   "A": "Bảo hiểm sức khỏe bắt buộc"
+   "A": "Bảo hiểm cháy, nổ bắt buộc",
+   "B": "Bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới",
+   "C": "Bảo hiểm sức khỏe bắt buộc",
+   "D": "bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng"
   },
-  "dapAnDung": "A",
+  "dapAnDung": "C",
   "giaiThich": "",
-  "nguon": "on_tap-1_1_lvo6.xlsx – sheet DE 1 DEN 8, Đề 7 câu 7",
-  "thieuDapAn": true
+  "nguon": "on_tap-1_1_lvo6.xlsx – sheet DE 1 DEN 8, Đề 7 câu 7; bo-sung-tracnghiem.csv dòng 30 (tracnghiem.net)"
  },
  {
   "id": "ot7-c08",
@@ -15074,12 +15080,14 @@
   "chuDe": 9,
   "cauHoi": "Theo Luật Kinh doanh bảo hiểm, đại lý bảo hiểm có nghĩa vụ nào sau đây",
   "dapAn": {
-   "A": "A, B đúng"
+   "A": "Chịu sự kiểm tra, giám sát của doanh nghiệp bảo hiểm",
+   "B": "Giữ bí mật thông tin khách hàng",
+   "C": "Có thể đem phí bảo hiểm đi đầu tư và trả một phần lãi cho doanh nghiệp bảo hiểm.",
+   "D": "A, B đúng"
   },
-  "dapAnDung": "A",
+  "dapAnDung": "D",
   "giaiThich": "",
-  "nguon": "on_tap-1_1_lvo6.xlsx – sheet DE 10, Đề 10 câu 19",
-  "thieuDapAn": true
+  "nguon": "on_tap-1_1_lvo6.xlsx – sheet DE 10, Đề 10 câu 19; bo-sung-tracnghiem.csv dòng 4 (tracnghiem.net)"
  },
  {
   "id": "ot10-c09",
@@ -15171,12 +15179,14 @@
   "chuDe": 2,
   "cauHoi": "Theo Luật Kinh doanh bảo hiểm 2022, trong hợp đồng bảo hiểm nhân thọ (trừ trường hợp bảo hiểm nhóm), trường hợp bên mua bảo hiểm không đóng phí bảo hiểm hoặc không đóng đủ phí bảo hiểm sau thời gian gia hạn đóng phí thì doanh nghiệp bảo hiểm sẽ",
   "dapAn": {
-   "A": "Không được tự ý khấu trừ phí bảo hiểm từ giá trị hoàn lại của hợp đồng bảo hiểm khi chưa có sự đồng ý của bên mua bảo hiểm và không được khởi kiện đòi bên mua bảo hiểm đóng phí bảo hiểm"
+   "A": "Trả lại 50% phí bảo hiểm đã đóng cho bên mua bảo hiểm.",
+   "B": "Trả lại toàn bộ phí bảo hiểm đã đóng cho bên mua bảo hiểm.",
+   "C": "Không được tự ý khấu trừ phí bảo hiểm từ giá trị hoàn lại của hợp đồng bảo hiểm khi chưa có sự đồng ý của bên mua bảo hiểm và không được khởi kiện đòi bên mua bảo hiểm đóng phí bảo hiểm.",
+   "D": "Được tự ý khấu trừ phí bảo hiểm từ giá trị hoàn lại của hợp đồng bảo hiểm."
   },
-  "dapAnDung": "A",
+  "dapAnDung": "C",
   "giaiThich": "",
-  "nguon": "on_tap-1_1_lvo6.xlsx – sheet DE 11, Đề 11 câu 5",
-  "thieuDapAn": true
+  "nguon": "on_tap-1_1_lvo6.xlsx – sheet DE 11, Đề 11 câu 5; bo-sung-tracnghiem.csv dòng 20 (tracnghiem.net)"
  },
  {
   "id": "ot11-c05",
@@ -15203,12 +15213,14 @@
   "chuDe": 4,
   "cauHoi": "Theo Luật Kinh doanh bảo hiểm 2022, chọn phương án đúng về đối tượng của hợp đồng bảo hiểm sức khỏe",
   "dapAn": {
-   "A": "Sức khỏe con người"
+   "A": "Tuổi thọ.",
+   "B": "Tính mạng.",
+   "C": "Sức khỏe con người",
+   "D": "Tất cả đều đúng đúng."
   },
-  "dapAnDung": "A",
+  "dapAnDung": "C",
   "giaiThich": "",
-  "nguon": "on_tap-1_1_lvo6.xlsx – sheet DE 11, Đề 11 câu 9",
-  "thieuDapAn": true
+  "nguon": "on_tap-1_1_lvo6.xlsx – sheet DE 11, Đề 11 câu 9; bo-sung-tracnghiem.csv dòng 15 (tracnghiem.net)"
  },
  {
   "id": "ot11-c07",
@@ -15795,12 +15807,14 @@
   "chuDe": 2,
   "cauHoi": "Hợp đồng bảo hiểm vô hiệu khi",
   "dapAn": {
-   "A": "B, C đúng"
+   "A": "Tại thời điểm giao kết hợp đồng bảo hiểm, bên mua bảo hiểm không biết sự kiện bảo hiểm đã xảy ra.",
+   "B": "Không có đối tượng bảo hiểm tại thời điểm giao kết hợp đồng bảo hiểm",
+   "C": "Hợp đồng bảo hiểm được giao kết do bị đe dọa, cưỡng ép.",
+   "D": "B, C đúng"
   },
-  "dapAnDung": "A",
+  "dapAnDung": "D",
   "giaiThich": "",
-  "nguon": "on_tap-1_1_lvo6.xlsx – sheet DE 12, Đề 12 câu 36",
-  "thieuDapAn": true
+  "nguon": "on_tap-1_1_lvo6.xlsx – sheet DE 12, Đề 12 câu 36; bo-sung-tracnghiem.csv dòng 6 (tracnghiem.net)"
  },
  {
   "id": "ot12-c20",
@@ -15907,12 +15921,14 @@
   "chuDe": 9,
   "cauHoi": "Theo Luật Kinh doanh bảo hiểm 2022, doanh nghiệp bảo hiểm có các quyền nào trong hoạt động đại lý bảo hiểm:",
   "dapAn": {
-   "A": "A, B, C đúng"
+   "A": "Quyết định mức chi trả hoa hồng đại lý bảo hiểm trong hợp đồng đại lý bảo hiểm không vượt quá mức tối đa theo quy định của Bộ trưởng Bộ Tài chính",
+   "B": "Nhận và quản lý tiền ký quỹ hoặc tài sản thế chấp của đại lý bảo hiểm nếu có thỏa thuận trong hợp đồng đại lý bảo hiểm",
+   "C": "Yêu cầu đại lý bảo hiểm thanh toán phí bảo hiểm thu được theo thỏa thuận trong hợp đồng bảo hiểm.",
+   "D": "A, B, C đúng"
   },
-  "dapAnDung": "A",
+  "dapAnDung": "D",
   "giaiThich": "",
-  "nguon": "on_tap-1_1_lvo6.xlsx – sheet DE 13, Đề 13 câu 13",
-  "thieuDapAn": true
+  "nguon": "on_tap-1_1_lvo6.xlsx – sheet DE 13, Đề 13 câu 13; bo-sung-tracnghiem.csv dòng 21 (tracnghiem.net)"
  },
  {
   "id": "ot13-c07",
@@ -16505,5 +16521,113 @@
   "giaiThich": "",
   "nguon": "on_tap-1_1_lvo6.xlsx – sheet DE 14, Đề 14 câu 33",
   "thieuDapAn": true
+ },
+ {
+  "id": "tn-c01",
+  "de": "Bổ sung",
+  "cacDe": [
+   "Bổ sung"
+  ],
+  "chuDe": 10,
+  "cauHoi": "Việc thay mặt người bảo hiểm đòi người thứ ba trong bảo hiểm là dựa trên nguyên tắc:",
+  "dapAn": {
+   "A": "Nguyên tắc thế quyền",
+   "B": "Nguyên tắc quyền lợi có thể được bảo hiểm",
+   "C": "Nguyên tắc đóng góp bồi thường",
+   "D": "A, B đúng"
+  },
+  "dapAnDung": "A",
+  "giaiThich": "",
+  "nguon": "bo-sung-tracnghiem.csv dòng 14 (tracnghiem.net)"
+ },
+ {
+  "id": "tn-c02",
+  "de": "Bổ sung",
+  "cacDe": [
+   "Bổ sung"
+  ],
+  "chuDe": 5,
+  "cauHoi": "Chọn phương án đúng về nghiệp vụ bảo hiểm bắt buộc:",
+  "dapAn": {
+   "A": "Bảo hiểm tai nạn người ngồi trên xe cơ giới.",
+   "B": "Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới.",
+   "C": "Bảo hiểm thiệt hại vật chất xe cơ giới.",
+   "D": "A, B, C đúng."
+  },
+  "dapAnDung": "B",
+  "giaiThich": "",
+  "nguon": "bo-sung-tracnghiem.csv dòng 16 (tracnghiem.net)"
+ },
+ {
+  "id": "tn-c03",
+  "de": "Bổ sung",
+  "cacDe": [
+   "Bổ sung"
+  ],
+  "chuDe": 9,
+  "cauHoi": "Anh A đến đại lý bán bảo hiểm để mua bảo hiểm trách nhiệm dân sự xe cơ giới cho chiếc xe máy mà mình đang sử dụng. Bác A đã sử dụng loại hình bảo hiểm nào dưới đây?",
+  "dapAn": {
+   "A": "Bảo hiểm y tế.",
+   "B": "Bảo hiểm thương mại.",
+   "C": "Bảo hiểm xã hội",
+   "D": "Bảo hiểm thất nghiệp."
+  },
+  "dapAnDung": "B",
+  "giaiThich": "",
+  "nguon": "bo-sung-tracnghiem.csv dòng 17 (tracnghiem.net)"
+ },
+ {
+  "id": "tn-c04",
+  "de": "Bổ sung",
+  "cacDe": [
+   "Bổ sung"
+  ],
+  "chuDe": 3,
+  "cauHoi": "Theo Luật kinh doanh bảo hiểm, đối với các dịch vụ bảo hiểm có thu xếp tái bảo hiểm, khi tổn thất xảy ra, người được bảo hiểm:",
+  "dapAn": {
+   "A": "Đòi bồi thường toàn bộ tổn thất từ doanh nghiệp bảo hiểm gốc.",
+   "B": "Đòi bồi thường phần tổn thất tương đương với tỷ lệ giữ lại từ doanh nghiệp bảo hiểm gốc.",
+   "C": "Đòi bồi thường phần tổn thất tương đương với tỷ lệ nhận tái bảo hiểm từ doanh nghiệp nhận tái bảo hiểm.",
+   "D": "Không trường hợp nào đúng."
+  },
+  "dapAnDung": "A",
+  "giaiThich": "",
+  "nguon": "bo-sung-tracnghiem.csv dòng 24 (tracnghiem.net)"
+ },
+ {
+  "id": "tn-c05",
+  "de": "Bổ sung",
+  "cacDe": [
+   "Bổ sung"
+  ],
+  "chuDe": 9,
+  "cauHoi": "Phát biểu nào sau đây đúng?",
+  "dapAn": {
+   "A": "Nhà môi giới bảo hiểm đại diện cho doanh nghiệp bảo hiểm",
+   "B": "Đại lý bảo hiểm và môi giới bảo hiểm được hưởng hoa hồng phí từ doanh nghiệp bảo hiểm",
+   "C": "Đại lý bảo hiểm là người đại diện cho bên mua bảo hiểm",
+   "D": "Tất cả đều đúng"
+  },
+  "dapAnDung": "B",
+  "giaiThich": "",
+  "nguon": "bo-sung-tracnghiem.csv dòng 31 (tracnghiem.net)"
+ },
+ {
+  "id": "tn-c06",
+  "de": "Bổ sung",
+  "cacDe": [
+   "Bổ sung"
+  ],
+  "chuDe": 3,
+  "cauHoi": "Khi áp dụng chế độ miễn thường không khấu trừ, nếu thiệt hại thực tế nhỏ hơn hoặc bằng mức miễn thường thì DNBH",
+  "dapAn": {
+   "A": "bồi thường bằng mức miễn thường",
+   "B": "không bồi thường",
+   "C": "bồi thường phần chênh lệch giữa thiệt hại thực tế và mức miễn thường",
+   "D": "bồi thường toàn bộ thiệt hại của khách hàng"
+  },
+  "dapAnDung": "B",
+  "giaiThich": "",
+  "nguon": "bo-sung-tracnghiem.csv dòng 47 (tracnghiem.net)"
  }
 ]

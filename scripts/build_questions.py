@@ -172,4 +172,5 @@ def main():
     print('per de', sorted(per.items(), key=lambda z: (z[0][0], int(re.search(r'\d+', z[0]).group()))))
 
 
-main()
+if __name__ == "__main__":
+    main()

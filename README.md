@@ -23,6 +23,7 @@ npm run build
 - `src/data/topics.js`: 10 chủ đề.
 - `src/data/meoNho.json`: Bảng mẹo nhớ (mỗi dòng có nguồn là id câu hỏi).
 - Tạo lại ngân hàng câu hỏi từ `data/` (cần `pymupdf`, `openpyxl`): `python3 scripts/build_questions.py`. Đáp án đúng trong PDF là chữ đỏ in đậm. Id `deN-cXX` = Đề N trong PDF, `otN-cXX` = Đề N trong file XLSX (chỉ có trong XLSX). Câu `thieuDapAn: true` chỉ có đáp án đúng, không có phương án sai → chỉ dùng cho flashcard + tìm kiếm.
-- Báo cáo parse: `data/BAO_CAO_PARSE.md`.
+- Gộp file bổ sung tracnghiem.net (sau bước trên): `python3 scripts/merge_bosung.py` — bảng rà soát thủ công từng dòng nằm trong script; câu `chiOnTap: true` (thiếu phương án) chỉ dùng cho flashcard + tìm kiếm.
+- Báo cáo: `data/BAO_CAO_PARSE.md`, `data/BAO_CAO_BO_SUNG.md`.
 
 © 2026 VH Phước. Mọi nội dung thuộc về VH Phước.
