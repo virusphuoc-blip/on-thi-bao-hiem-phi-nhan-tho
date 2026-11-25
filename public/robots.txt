@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pnt.vhphuoc.io.vn/sitemap.xml

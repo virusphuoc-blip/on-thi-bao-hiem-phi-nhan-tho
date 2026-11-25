@@ -1,0 +1,218 @@
+[
+ {
+  "id": "mau-c01",
+  "de": "Đề mẫu",
+  "cacDe": [
+   "Đề mẫu"
+  ],
+  "chuDe": 1,
+  "cauHoi": "[Câu mẫu 1] Câu hỏi tạm thời để chạy thử app — sẽ được thay bằng câu hỏi thật từ tài liệu nguồn.",
+  "dapAn": {
+   "A": "Phương án mẫu A",
+   "B": "Phương án mẫu B",
+   "C": "Phương án mẫu C",
+   "D": "Phương án mẫu D"
+  },
+  "dapAnDung": "A",
+  "giaiThich": "",
+  "nguon": "Dữ liệu mẫu (tạm thời)"
+ },
+ {
+  "id": "mau-c02",
+  "de": "Đề mẫu",
+  "cacDe": [
+   "Đề mẫu"
+  ],
+  "chuDe": 2,
+  "cauHoi": "[Câu mẫu 2] Câu hỏi tạm thời để chạy thử app — sẽ được thay bằng câu hỏi thật từ tài liệu nguồn.",
+  "dapAn": {
+   "A": "Phương án mẫu A",
+   "B": "Phương án mẫu B",
+   "C": "Phương án mẫu C",
+   "D": "Phương án mẫu D"
+  },
+  "dapAnDung": "B",
+  "giaiThich": "",
+  "nguon": "Dữ liệu mẫu (tạm thời)"
+ },
+ {
+  "id": "mau-c03",
+  "de": "Đề mẫu",
+  "cacDe": [
+   "Đề mẫu"
+  ],
+  "chuDe": 3,
+  "cauHoi": "[Câu mẫu 3] Câu hỏi tạm thời để chạy thử app — sẽ được thay bằng câu hỏi thật từ tài liệu nguồn.",
+  "dapAn": {
+   "A": "Phương án mẫu A",
+   "B": "Phương án mẫu B",
+   "C": "Phương án mẫu C",
+   "D": "Phương án mẫu D"
+  },
+  "dapAnDung": "C",
+  "giaiThich": "",
+  "nguon": "Dữ liệu mẫu (tạm thời)"
+ },
+ {
+  "id": "mau-c04",
+  "de": "Đề mẫu",
+  "cacDe": [
+   "Đề mẫu"
+  ],
+  "chuDe": 4,
+  "cauHoi": "[Câu mẫu 4] Câu hỏi tạm thời để chạy thử app — sẽ được thay bằng câu hỏi thật từ tài liệu nguồn.",
+  "dapAn": {
+   "A": "Phương án mẫu A",
+   "B": "Phương án mẫu B",
+   "C": "Phương án mẫu C",
+   "D": "Phương án mẫu D"
+  },
+  "dapAnDung": "D",
+  "giaiThich": "",
+  "nguon": "Dữ liệu mẫu (tạm thời)"
+ },
+ {
+  "id": "mau-c05",
+  "de": "Đề mẫu",
+  "cacDe": [
+   "Đề mẫu"
+  ],
+  "chuDe": 5,
+  "cauHoi": "[Câu mẫu 5] Câu hỏi tạm thời để chạy thử app — sẽ được thay bằng câu hỏi thật từ tài liệu nguồn.",
+  "dapAn": {
+   "A": "Phương án mẫu A",
+   "B": "Phương án mẫu B",
+   "C": "Phương án mẫu C",
+   "D": "Phương án mẫu D"
+  },
+  "dapAnDung": "A",
+  "giaiThich": "",
+  "nguon": "Dữ liệu mẫu (tạm thời)"
+ },
+ {
+  "id": "mau-c06",
+  "de": "Đề mẫu",
+  "cacDe": [
+   "Đề mẫu"
+  ],
+  "chuDe": 6,
+  "cauHoi": "[Câu mẫu 6] Câu hỏi tạm thời để chạy thử app — sẽ được thay bằng câu hỏi thật từ tài liệu nguồn.",
+  "dapAn": {
+   "A": "Phương án mẫu A",
+   "B": "Phương án mẫu B",
+   "C": "Phương án mẫu C",
+   "D": "Phương án mẫu D"
+  },
+  "dapAnDung": "B",
+  "giaiThich": "",
+  "nguon": "Dữ liệu mẫu (tạm thời)"
+ },
+ {
+  "id": "mau-c07",
+  "de": "Đề mẫu",
+  "cacDe": [
+   "Đề mẫu"
+  ],
+  "chuDe": 7,
+  "cauHoi": "[Câu mẫu 7] Câu hỏi tạm thời để chạy thử app — sẽ được thay bằng câu hỏi thật từ tài liệu nguồn.",
+  "dapAn": {
+   "A": "Phương án mẫu A",
+   "B": "Phương án mẫu B",
+   "C": "Phương án mẫu C",
+   "D": "Phương án mẫu D"
+  },
+  "dapAnDung": "C",
+  "giaiThich": "",
+  "nguon": "Dữ liệu mẫu (tạm thời)"
+ },
+ {
+  "id": "mau-c08",
+  "de": "Đề mẫu",
+  "cacDe": [
+   "Đề mẫu"
+  ],
+  "chuDe": 8,
+  "cauHoi": "[Câu mẫu 8] Câu hỏi tạm thời để chạy thử app — sẽ được thay bằng câu hỏi thật từ tài liệu nguồn.",
+  "dapAn": {
+   "A": "Phương án mẫu A",
+   "B": "Phương án mẫu B",
+   "C": "Phương án mẫu C",
+   "D": "Phương án mẫu D"
+  },
+  "dapAnDung": "D",
+  "giaiThich": "",
+  "nguon": "Dữ liệu mẫu (tạm thời)"
+ },
+ {
+  "id": "mau-c09",
+  "de": "Đề mẫu",
+  "cacDe": [
+   "Đề mẫu"
+  ],
+  "chuDe": 9,
+  "cauHoi": "[Câu mẫu 9] Câu hỏi tạm thời để chạy thử app — sẽ được thay bằng câu hỏi thật từ tài liệu nguồn.",
+  "dapAn": {
+   "A": "Phương án mẫu A",
+   "B": "Phương án mẫu B",
+   "C": "Phương án mẫu C",
+   "D": "Phương án mẫu D"
+  },
+  "dapAnDung": "A",
+  "giaiThich": "",
+  "nguon": "Dữ liệu mẫu (tạm thời)"
+ },
+ {
+  "id": "mau-c10",
+  "de": "Đề mẫu",
+  "cacDe": [
+   "Đề mẫu"
+  ],
+  "chuDe": 10,
+  "cauHoi": "[Câu mẫu 10] Câu hỏi tạm thời để chạy thử app — sẽ được thay bằng câu hỏi thật từ tài liệu nguồn.",
+  "dapAn": {
+   "A": "Phương án mẫu A",
+   "B": "Phương án mẫu B",
+   "C": "Phương án mẫu C",
+   "D": "Phương án mẫu D"
+  },
+  "dapAnDung": "B",
+  "giaiThich": "",
+  "nguon": "Dữ liệu mẫu (tạm thời)"
+ },
+ {
+  "id": "mau-c11",
+  "de": "Đề mẫu",
+  "cacDe": [
+   "Đề mẫu"
+  ],
+  "chuDe": 1,
+  "cauHoi": "[Câu mẫu 11] Câu hỏi tạm thời để chạy thử app — sẽ được thay bằng câu hỏi thật từ tài liệu nguồn.",
+  "dapAn": {
+   "A": "Phương án mẫu A",
+   "B": "Phương án mẫu B",
+   "C": "Phương án mẫu C",
+   "D": "Phương án mẫu D"
+  },
+  "dapAnDung": "C",
+  "giaiThich": "",
+  "nguon": "Dữ liệu mẫu (tạm thời)"
+ },
+ {
+  "id": "mau-c12",
+  "de": "Đề mẫu",
+  "cacDe": [
+   "Đề mẫu"
+  ],
+  "chuDe": 2,
+  "cauHoi": "[Câu mẫu 12] Câu hỏi tạm thời để chạy thử app — sẽ được thay bằng câu hỏi thật từ tài liệu nguồn.",
+  "dapAn": {
+   "A": "Phương án mẫu A",
+   "B": "Phương án mẫu B",
+   "C": "Phương án mẫu C",
+   "D": "Phương án mẫu D"
+  },
+  "dapAnDung": "D",
+  "giaiThich": "",
+  "nguon": "Dữ liệu mẫu (tạm thời)"
+ }
+]
